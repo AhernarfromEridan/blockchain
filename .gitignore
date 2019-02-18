@@ -5,3 +5,6 @@ files/blocks/
 files/transactions/
 files/.vs/
 files/block_chain.vcxproj.user
+Debug
+Release
+*.vcxproj.user
