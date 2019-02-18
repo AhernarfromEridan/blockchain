@@ -1,0 +1,7 @@
+files/x64/
+files/x86/
+files/Crypto/
+files/blocks/
+files/transactions/
+files/.vs/
+files/block_chain.vcxproj.user
